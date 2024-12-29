@@ -1,5 +1,5 @@
 
-<h2>Website Pengelola keuangan ini di buat menggunakan Laravel Filament V2</h2> 
+<h2>Website Pengelola keuangan ini di buat menggunakan Laravel</h2> 
 <br>
 <h3>Fitur</h3>
 <br>
